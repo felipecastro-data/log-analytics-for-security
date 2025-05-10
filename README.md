@@ -32,12 +32,14 @@ Organizations generate massive log files daily from servers, apps, and devices. 
 ## 🧱 Project Structure
 
 ```
-log-analytics-security/
+log-analytics-for-security/
 ├── notebooks/
 │   └── 01_Log_Analytics_Fabric.ipynb
+├── data/
+│   └── access.log
 ├── images/
 │   └── (screenshots for README)
-├── README.md
+└── README.md
 ```
 
 ---
