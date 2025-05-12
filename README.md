@@ -54,6 +54,30 @@ log-analytics-for-security/
 
 ---
 
+## 🖼️ Notebook Execution in Microsoft Fabric
+
+Each step in this PySpark notebook was executed successfully in Microsoft Fabric. Below are visual references of the entire pipeline in action:
+
+### Step 1: Start Spark Session
+![Step 1](images/1_notebook_start_session.png)
+
+### Step 2: Read Raw Log File
+![Step 2](images/2_notebook_read_log_file.png)
+
+### Step 3: Parse Log Lines
+![Step 3](images/3_notebook_parse_logs.png)
+
+### Step 4: Clean and Filter
+![Step 4](images/4_notebook_clean_transform_logs.png)
+
+### Step 5: Detect Anomalies
+![Step 5](images/5_notebook_detect_anomalies.png)
+
+### Step 6: Save to Delta
+![Step 6](images/6_notebook_save_to_delta.png)
+
+---
+
 ## 🏅 Author & Certifications
 
 **Felipe Castro**  
